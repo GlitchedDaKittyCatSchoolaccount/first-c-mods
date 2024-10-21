@@ -1,2 +1,1 @@
-OMG YOUR TRYING TO TAKE MY CODE I DONT THINK SO
-( JK there wont be any code in here )
+// this just here to add c++ to my languges ( For now ) 
